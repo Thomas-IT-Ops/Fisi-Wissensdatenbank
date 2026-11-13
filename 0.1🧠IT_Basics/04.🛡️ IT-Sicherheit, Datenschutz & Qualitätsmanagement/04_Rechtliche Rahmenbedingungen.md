@@ -1,0 +1,1 @@
+DSGVO (Datenschutz-Grundverordnung), BDSG (Bundesdatenschutzgesetz), Urheberrecht und Lizenzmodelle.

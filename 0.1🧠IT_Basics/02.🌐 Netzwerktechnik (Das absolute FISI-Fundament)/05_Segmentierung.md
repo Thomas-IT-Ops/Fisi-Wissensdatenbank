@@ -1,0 +1,1 @@
+**Segmentierung:** VLANs (Virtual Local Area Networks) und Routing-Tabellen (statisches vs. dynamisches Routing).

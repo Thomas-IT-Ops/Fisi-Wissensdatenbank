@@ -1,0 +1,1 @@
+HDD vs. SSD (NVMe, SATA), Dateisysteme (NTFS, ext4, exFAT); RAID-Level (0, 1, 5, 6, 10) hinsichtlich Netto-Kapazität, Ausfallsicherheit und Geschwindigkeit berechnen.

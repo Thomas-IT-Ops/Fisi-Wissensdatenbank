@@ -1,0 +1,1 @@
+Subnetzmasken, CIDR-Notation, Netz-ID, Broadcast-Adresse, Host-Bereiche, VLSM (Variable Length Subnet Masking).

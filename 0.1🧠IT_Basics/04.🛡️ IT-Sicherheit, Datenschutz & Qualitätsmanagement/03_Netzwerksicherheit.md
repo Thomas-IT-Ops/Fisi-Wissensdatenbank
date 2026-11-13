@@ -1,0 +1,1 @@
+Firewalls (Paketfilter, Stateful Inspection), DMZ (Demilitarisierte Zone), VPN-Technologien (IPsec, OpenVPN), Network Access Control (NAC).

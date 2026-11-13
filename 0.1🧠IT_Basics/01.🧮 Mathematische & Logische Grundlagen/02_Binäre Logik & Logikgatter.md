@@ -1,0 +1,1 @@
+AND, OR, NOT, XOR, NAND, NOR inklusive Wahrheitstabellen und boolescher Algebra.

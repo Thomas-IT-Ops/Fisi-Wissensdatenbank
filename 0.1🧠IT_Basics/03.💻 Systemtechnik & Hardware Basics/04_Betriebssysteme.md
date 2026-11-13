@@ -1,0 +1,1 @@
+Kernel-Architektur, Prozess- und Speicherverwaltung, CLI (Command Line Interface) in Windows (PowerShell) und Linux (Bash).

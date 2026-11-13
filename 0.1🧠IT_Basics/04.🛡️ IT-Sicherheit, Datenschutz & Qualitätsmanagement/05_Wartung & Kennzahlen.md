@@ -1,0 +1,1 @@
+Berechnung von Verfügbarkeit (\(\%\)), MTBF (Mean Time Between Failures) und MTTR (Mean Time To Repair).

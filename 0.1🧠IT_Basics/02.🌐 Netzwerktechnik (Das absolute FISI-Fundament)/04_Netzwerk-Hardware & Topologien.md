@@ -1,0 +1,1 @@
+Router, Switches (Layer 2 vs. Layer 3), Hubs, Access Points; Stern-, Mesh- und Bus-Topologien.

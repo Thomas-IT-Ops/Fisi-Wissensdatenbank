@@ -1,0 +1,1 @@
+Die CIA-Trias (Confidentiality/Vertraulichkeit, Integrity/Integrität, Availability/Verfügbarkeit).

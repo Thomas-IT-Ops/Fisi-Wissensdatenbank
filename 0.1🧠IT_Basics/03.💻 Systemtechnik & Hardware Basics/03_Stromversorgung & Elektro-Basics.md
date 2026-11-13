@@ -1,0 +1,1 @@
+Grundlagen der Physik (Spannung \(U\), Stromstärke \(I\), Leistung \(P\), Widerstand \(R\)), Dimensionierung von Netzteilen und USV-Anlagen (Unterbrechungsfreie Stromversorgung).

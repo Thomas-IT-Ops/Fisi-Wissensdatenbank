@@ -1,0 +1,1 @@
+Automatisierung von administrativen Aufgaben mittels PowerShell oder Python.

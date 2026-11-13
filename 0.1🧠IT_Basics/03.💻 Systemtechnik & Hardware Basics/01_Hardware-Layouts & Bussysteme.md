@@ -1,0 +1,1 @@
+CPU-Architekturen, RAM-Typen, Mainboard-Schnittstellen, Formfaktoren.

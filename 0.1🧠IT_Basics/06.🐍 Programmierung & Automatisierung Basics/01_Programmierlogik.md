@@ -1,0 +1,1 @@
+Kontrollstrukturen (If-Else-Bedingungen), Schleifen (For, While), Variablen, Datentypen und Arrays/Listen.

@@ -1,0 +1,1 @@
+![[04_Anleitung_SAP_Learning_Hub.pdf]]

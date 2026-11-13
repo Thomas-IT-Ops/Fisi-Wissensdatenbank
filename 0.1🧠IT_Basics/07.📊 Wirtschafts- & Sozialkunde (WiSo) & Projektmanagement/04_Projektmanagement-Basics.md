@@ -1,0 +1,1 @@
+Projektphasen (Initiierung, Planung, Durchführung, Abschluss), Netzplantechnik (Kritischer Pfad, Pufferzeiten).

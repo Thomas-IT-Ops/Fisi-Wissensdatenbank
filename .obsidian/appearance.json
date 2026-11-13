@@ -1,0 +1,11 @@
+{
+  "accentColor": "#e5ff24",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "mac-buttons"
+  ],
+  "interfaceFontFamily": "SF-Pro-Display-Regular.ttf",
+  "textFontFamily": "SF-Pro-Text-Regular.ttf",
+  "nativeMenus": false
+}

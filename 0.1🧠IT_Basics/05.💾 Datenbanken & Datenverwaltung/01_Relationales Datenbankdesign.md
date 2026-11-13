@@ -1,0 +1,1 @@
+Entity-Relationship-Modelle (ERM) in Chen- oder Krähenfuß-Notation erstellen.

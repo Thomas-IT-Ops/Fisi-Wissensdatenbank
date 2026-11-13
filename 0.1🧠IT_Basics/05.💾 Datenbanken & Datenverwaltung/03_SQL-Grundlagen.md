@@ -1,0 +1,1 @@
+DDL (Data Definition Language) wie CREATE TABLE, ALTER TABLE und DML (Data Manipulation Language) wie SELECT, INSERT, UPDATE, DELETE sowie relationale JOIN-Operationen.

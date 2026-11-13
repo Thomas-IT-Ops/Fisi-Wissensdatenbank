@@ -1,0 +1,1 @@
+Erstellung von Programmablaufplänen (PAP) nach DIN 66001 und Struktogrammen (Nassi-Shneiderman).

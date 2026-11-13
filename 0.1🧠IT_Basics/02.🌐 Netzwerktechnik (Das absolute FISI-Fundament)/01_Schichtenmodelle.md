@@ -1,0 +1,1 @@
+ ISO/OSI-Referenzmodell (7 Schichten) und TCP/IP-Modell (4 Schichten) – Aufgaben und Protokolle jeder Schicht kennen.

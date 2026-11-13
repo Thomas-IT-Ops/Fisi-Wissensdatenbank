@@ -1,0 +1,1 @@
+Durchführung einer BSI-IT-Grundschutz-Schutzbedarfsanalyse, Risikoanalysen und Klassifikation von Schadensszenarien.

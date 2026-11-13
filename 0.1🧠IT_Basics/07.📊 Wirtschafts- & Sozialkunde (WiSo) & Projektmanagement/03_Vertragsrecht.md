@@ -1,0 +1,1 @@
+Arten von IT-Verträgen (Kaufvertrag, Werkvertrag, Dienstvertrag, Dienstleistungsvertrag/SLA) und Gewährleistungsrechte bei Leistungsstörungen.

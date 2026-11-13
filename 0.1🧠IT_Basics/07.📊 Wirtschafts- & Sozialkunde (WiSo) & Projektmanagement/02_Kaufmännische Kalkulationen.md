@@ -1,0 +1,1 @@
+Angebotsvergleiche (quantitativ & qualitativ mittels Nutzwertanalyse), Handels- und Bezugskalkulationen, Abschreibungen.

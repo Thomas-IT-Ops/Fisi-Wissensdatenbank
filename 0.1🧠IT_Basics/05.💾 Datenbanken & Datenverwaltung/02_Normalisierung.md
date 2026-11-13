@@ -1,0 +1,1 @@
+1., 2. und 3. Normalform (Identifikation und Transformation zur Vermeidung von Anomalien).

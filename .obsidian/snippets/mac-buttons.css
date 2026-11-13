@@ -1,0 +1,85 @@
+/* Positioniert die Mac-Ampel sauber oben links */
+.titlebar-button-container.mod-right {
+    position: absolute !important;
+    left: 10px !important;
+    right: auto !important;
+    top: 6px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 8px !important;
+    z-index: 9999 !important;
+}
+
+/* Sortiert die Knöpfe in die Mac-Reihenfolge (Rot, Gelb, Grün) */
+.titlebar-button.mod-close { order: 1 !important; }
+.titlebar-button.mod-minimize { order: 2 !important; }
+.titlebar-button.mod-maximize,
+.titlebar-button.mod-restore { order: 3 !important; }
+
+/* Macht aus den Tasten runde Punkte */
+.titlebar-button {
+    position: relative !important;
+    padding: 0px !important;
+    min-height: 12px !important;
+    min-width: 12px !important;
+    max-height: 12px !important;
+    max-width: 12px !important;
+    border-radius: 50% !important;
+    transition: background-color 100ms ease;
+    cursor: pointer !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+/* Blendet die originalen Windows-Grafiken komplett aus */
+.titlebar-button > svg, 
+.titlebar-button > img {
+    display: none !important;
+}
+
+/* Erzeugt die Mac-Symbole (X, Minus, Pfeile) als Text im Hintergrund */
+.titlebar-button::before {
+    font-size: 8px !important;
+    font-weight: bold !important;
+    color: #4c0000 !important; /* Dunkles Rot für das X */
+    opacity: 0 !important; /* Standardmäßig unsichtbar */
+    transition: opacity 100ms ease;
+    line-height: 1 !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+.titlebar-button.mod-close::before { content: "✕" !important; }
+.titlebar-button.mod-minimize::before { content: "–" !important; color: #5c3e00 !important; font-size: 10px !important; }
+.titlebar-button.mod-maximize::before, .titlebar-button.mod-restore::before { content: "⤢" !important; color: #004c00 !important; font-size: 7px !important; }
+
+/* Wenn die Maus ÜBER DEN CONTAINER fährt, werden ALLE Symbole sichtbar (wie beim Mac) */
+.titlebar-button-container.mod-right:hover .titlebar-button::before {
+    opacity: 1 !important;
+}
+
+/* Mac-Farben für die Punkte */
+.titlebar-button.mod-close { background-color: #ff5f56 !important; }
+.titlebar-button.mod-minimize { background-color: #febc2e !important; }
+.titlebar-button.mod-maximize, 
+.titlebar-button.mod-restore { background-color: #28c840 !important; }
+
+/* Hover-Effekt: Punkte dunkeln beim Drüberfahren wie beim Original leicht ab */
+.titlebar-button.mod-close:hover { background-color: #e1433a !important; }
+.titlebar-button.mod-minimize:hover { background-color: #d99e23 !important; }
+.titlebar-button.mod-maximize:hover, .titlebar-button.mod-restore:hover { background-color: #1ea232 !important; }
+/* Perfekte Text-Ergonomie im Apple-Stil */
+.cm-line {
+    line-height: 1.75 !important; /* Großzügiger, edler Zeilenabstand */
+    letter-spacing: -0.01em !important; /* SF Pro sieht mit leichtem negativem Spacing auf Displays noch besser aus */
+}
+
+/* Erzeugt einen angenehmen Abstand NACH jedem Absatz, ohne dass man zweimal Enter drücken muss */
+.cm-content > div {
+    margin-bottom: 0.6em !important;
+}
+
+/* Verhindert, dass der Text am linken und rechten Rand klebt */
+.markdown-source-view.mod-cm6 .cm-viewport {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
