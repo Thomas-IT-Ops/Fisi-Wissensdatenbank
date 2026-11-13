@@ -25,7 +25,7 @@ tags:
 ---
 
 ## 📖 Einfache Erklärung & Praxisbeispiele
-Am zweiten Tag stehen die **Managementfunktionen**, die **Strukturierung von IT-Projekten** sowie vertiefende Maßnahmen des **Gesundheitsschutzes** im Fokus. Jedes IT-Projekt verlangt eine systematische Steuerung von der Analyse über die Strukturierung bis hin zur revisionssicheren Dokumentation.
+Am zweiten Tag stehen die **Managementfunktionen**, die **Strukturierung von IT-Projekten** sowie vertiefende Maßnahmen des **Gesundheitsschutzes** im Fokus. Jedes IT-Projekt verlangt eine systematische Steuerung von der  Analyse über die Strukturierung bis hin zur revisionssicheren Dokumentation.
 
 ### Unterthemen & Anschauliche Beispiele:
 
