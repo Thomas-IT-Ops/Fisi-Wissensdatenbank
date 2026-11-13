@@ -7,5 +7,6 @@
   ],
   "interfaceFontFamily": "SF-Pro-Display-Regular.ttf",
   "textFontFamily": "SF-Pro-Text-Regular.ttf",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": true
 }
